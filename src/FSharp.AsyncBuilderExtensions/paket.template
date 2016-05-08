@@ -1,0 +1,25 @@
+type project
+title
+    FSharp.AsyncBuilderExtensions
+owners
+    Guy Oliver
+authors 
+    Guy Oliver
+projectUrl
+    http://github.com/sillyotter/FSharp.AsyncBuilderExtensions
+iconUrl
+    https://raw.githubusercontent.com/sillyotter/FSharp.AsyncBuilderExtensions/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/sillyotter/FSharp.AsyncBuilderExtensions/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    F# Async Tasks
+summary
+    Extenions to the AsyncBuilder to allow Tasks to be used in an async block
+description
+    Extensions to the AsyncBuilder to allow Task to be used in an async block
+
+
