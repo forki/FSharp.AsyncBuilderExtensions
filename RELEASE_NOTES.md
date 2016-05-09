@@ -1,5 +1,9 @@
+#### 0.0.4 - May 9 2016
+* Removed that last ill-advised things.  seemed to work in tests, doesn't in life.
+
+
 #### 0.0.3 - May 9 2016
-* Probably ill advised addition of binding that allows you to ignore the results of the task you invoke.
+* Probably ill-advised addition of binding that allows you to ignore the results of the task you invoke.
 
 #### 0.0.2 - May 8 2016
 * Removed dependency on fsharp.core

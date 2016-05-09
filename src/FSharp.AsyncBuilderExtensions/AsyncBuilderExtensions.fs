@@ -11,7 +11,4 @@ module AsyncBuilderExtensions =
         member __.Bind(task : System.Threading.Tasks.Task, f : unit -> Async<unit>) =
             let task = task |> Async.AwaitTask
             async.Bind(task, f)
-
-        member __.Bind(task : System.Threading.Tasks.Task<'a>, f : 'a -> Async<unit>) =
-                let task = task |> Async.AwaitTask
-                async.Bind(task, f)
+       
